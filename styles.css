@@ -1,0 +1,15 @@
+.chef {
+    height: auto;
+    width: 600px;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home {
+    background-color: rgb(250, 226, 226);
+    text-align: center;
+}
